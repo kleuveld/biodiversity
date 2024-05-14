@@ -1,0 +1,687 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ret",
+				"return"
+			],
+			[
+				"var",
+				"variable1"
+			],
+			[
+				"data",
+				"data_frame"
+			],
+			[
+				"varia",
+				"variable1"
+			],
+			[
+				"piv",
+				"pivot_longer"
+			],
+			[
+				"as_tib",
+				"as_tibble_row"
+			],
+			[
+				"geon",
+				"geom_hline"
+			],
+			[
+				"as",
+				"as_tibble"
+			],
+			[
+				"esti",
+				"estimator1"
+			],
+			[
+				"felo",
+				"feols_handler"
+			],
+			[
+				"esi",
+				"estimator2"
+			],
+			[
+				"year",
+				"year_shock"
+			],
+			[
+				"intervi",
+				"interviews2"
+			],
+			[
+				"intervie",
+				"interviews2"
+			],
+			[
+				"ite",
+				"items_owned"
+			],
+			[
+				"robu",
+				"probit_robust"
+			],
+			[
+				"inter",
+				"interview_date"
+			],
+			[
+				"bo",
+				"bosIntegratedAssessmentDeforestation2020"
+			],
+			[
+				"k",
+				"kothkeComparingFormerEUTR2023"
+			],
+			[
+				"de",
+				"desyTropicalDeforestationDrivers2019"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"z",
+				"zhunusovaPotentialImpactsProposed2022"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/User/Build Systems/rmarkdown_render_all.sublime-build",
+					""
+				],
+				[
+					"Packages/User/R-IDE/R-IDE.sublime-build",
+					""
+				],
+				[
+					"Packages/User/R-IDE/R-IDE.sublime-build",
+					"Render R Markdown to HTML"
+				],
+				[
+					"Packages/User/R-IDE/R-IDE.sublime-build",
+					"Render R Markdown to PDF"
+				],
+				[
+					"Packages/User/R-IDE/R-IDE.sublime-build",
+					"Render R Markdown"
+				]
+			],
+			[
+				"Packages/User/Build Systems/rmarkdown_render_all.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/R-IDE/R-IDE.sublime-build",
+					""
+				],
+				[
+					"Packages/User/R-IDE/R-IDE.sublime-build",
+					"Render R Markdown to HTML"
+				],
+				[
+					"Packages/User/R-IDE/R-IDE.sublime-build",
+					"Render R Markdown to PDF"
+				],
+				[
+					"Packages/User/R-IDE/R-IDE.sublime-build",
+					"Render R Markdown"
+				]
+			],
+			[
+				"Packages/User/R-IDE/R-IDE.sublime-build",
+				"Render R Markdown"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ter (",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"termin ",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"sni",
+				"Snippet: rmarkdown-rchunk"
+			],
+			[
+				"snip",
+				"Snippet: rmarkdown-rchunk"
+			],
+			[
+				"bookdown",
+				"Build With: rmarkdown_bookdown_render"
+			],
+			[
+				"list",
+				"Terminus: List Shells"
+			],
+			[
+				"rch",
+				"Snippet: rmarkdown-rchunk"
+			],
+			[
+				"rchun",
+				"Snippet: rmarkdown-rchunk"
+			],
+			[
+				"(V",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"rhun",
+				"Snippet: rmarkdown-rchunk"
+			],
+			[
+				"rchunk",
+				"Snippet: rmarkdown-rchunk"
+			],
+			[
+				"snipp",
+				"Snippet: rmarkdown-rchunk"
+			],
+			[
+				"(Vi",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"syntax r",
+				"Set Syntax: R"
+			],
+			[
+				"(Vie",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"(View",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"snip ch",
+				"Snippet: rmarkdown-rchunk"
+			],
+			[
+				"(",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"sn",
+				"Snippet: rmarkdown-rchunk"
+			],
+			[
+				"serve",
+				"Build With: rmarkdown_bookdown_serve"
+			],
+			[
+				"serv",
+				"Build With: rmarkdown_bookdown_serve"
+			],
+			[
+				"term",
+				"Terminus: List Shells"
+			],
+			[
+				"_serv",
+				"Build With: rmarkdown_bookdown_serve"
+			],
+			[
+				"_sr",
+				"Build With: rmarkdown_bookdown_serve"
+			],
+			[
+				"list hsel",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"snippet",
+				"Snippet: rmarkdown-rchunk"
+			],
+			[
+				"book",
+				"Build With: rmarkdown_bookdown_serve"
+			],
+			[
+				"bookdo",
+				"Build With: rmarkdown_bookdown_serve"
+			],
+			[
+				"terminus is",
+				"Terminus: List Shells"
+			],
+			[
+				"bookdow",
+				"Build With: rmarkdown_bookdown_serve"
+			],
+			[
+				"opn defau",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"list hs",
+				"Terminus: List Shells"
+			],
+			[
+				"terminus lis",
+				"Terminus: List Shells"
+			],
+			[
+				"Package Control: remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"LSP enabl",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"LSP disabl",
+				"LSP: Disable Language Server Globally"
+			],
+			[
+				"LSP",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"LPSenabl",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"LSP en",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"LSP-R",
+				"Preferences: LSP-R Settings"
+			],
+			[
+				"LSP: ena",
+				"LSP: Enable Language Server Globally"
+			],
+			[
+				"termin (",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"lsp",
+				"LSP: Enable Language Server Globally"
+			],
+			[
+				"",
+				"Build With: R-IDE2 - Render R Markdown"
+			],
+			[
+				"rend",
+				"Build With: R-IDE - Render R Markdown"
+			],
+			[
+				"render_a",
+				"Build With: rmarkdown_render_all"
+			],
+			[
+				"build",
+				"Build With: rmarkdown_render_all"
+			],
+			[
+				"(v",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"snippe",
+				"Snippet: rmarkdown-metadata"
+			],
+			[
+				"aut",
+				"Auto Wrap: Toggle"
+			],
+			[
+				"a",
+				"Auto Wrap: Toggle"
+			],
+			[
+				"syn rm",
+				"Set Syntax: R Markdown"
+			],
+			[
+				"syn r",
+				"Set Syntax: R"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"auto",
+				"Auto Wrap: Toggle"
+			],
+			[
+				"term (",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"Snippet: ",
+				"Snippet: rmarkdown-metadata"
+			],
+			[
+				"rmark",
+				"Set Syntax: R Markdown"
+			],
+			[
+				"terminus",
+				"Terminus Utilities: Select Theme"
+			],
+			[
+				"Package Control:",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"sendcode",
+				"SendCode: Choose Program"
+			],
+			[
+				"terminu (",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"sendcod",
+				"SendCode: Choose Program"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/leuve002/git/r_cheatsheet/chapters/05_functions.Rmd",
+		"/C/Users/leuve002/git/passwordgen/passwordgen.R",
+		"/C/Users/leuve002/git/r_cheatsheet/.gitignore",
+		"/C/Users/leuve002/git/r_cheatsheet/chapters/04-declaredesign.Rmd",
+		"/C/Users/leuve002/git/r_cheatsheet/chapters/03-estimating.Rmd",
+		"/C/Users/leuve002/git/kb37_coffee/lit_review.rmd",
+		"/C/Users/leuve002/git/kb37_coffee/EUDR_and_deforestation.rmd",
+		"/C/Users/leuve002/git/r_cheatsheet/chapters/06-data_exploration.Rmd",
+		"/C/Users/leuve002/git/r_cheatsheet/chapters/06_shinydashboards.Rmd",
+		"/C/Users/leuve002/git/congogbv/congogbv_analysis.Rmd",
+		"/C/Users/leuve002/git/r_cheatsheet/output/reporting.html",
+		"/C/Users/leuve002/git/bayer/bayer.rmd",
+		"/C/Users/leuve002/git/r_cheatsheet/index.Rmd",
+		"/C/Users/leuve002/git/lsms_powercalc/advanded_r_functional.r",
+		"/C/Users/leuve002/git/r_cheatsheet/chapters/02-datawrangling.Rmd",
+		"/C/Users/leuve002/git/lsms_powercalc/lsms_powercalc.r",
+		"/C/Users/leuve002/git/r_cheatsheet/.github/workflows/deploy_bookdown.yml",
+		"/C/Users/leuve002/git/lsms_powercalc/wb_power.r",
+		"/C/Users/leuve002/git/r_cheatsheet/output/datawrangling.html",
+		"/C/Users/leuve002/git/r_cheatsheet/output/index.html",
+		"/C/Users/leuve002/git/r_cheatsheet/README.md",
+		"/C/Users/leuve002/git/r_cheatsheet/chapters/01-setting-up.Rmd",
+		"/C/Users/leuve002/git/r_cheatsheet/_output.yml",
+		"/C/Users/leuve002/AppData/Roaming/Sublime Text/Packages/User/Build Systems/rmarkdown_bookdown_render.sublime-build",
+		"/C/Users/leuve002/git/r_cheatsheet/_main.Rmd",
+		"/C/Users/leuve002/git/r_cheatsheet/chapters/99-estimating.Rmd",
+		"/C/Users/leuve002/git/r_cheatsheet/_bookdown.yml",
+		"/C/Users/leuve002/git/r_cheatsheet/packages.bib",
+		"/C/Users/leuve002/git/r_cheatsheet/chapters/99-declaredesign.Rmd",
+		"/C/Users/leuve002/git/r_cheatsheet/chapters/04_functions.Rmd",
+		"/C/Users/leuve002/AppData/Roaming/Sublime Text/Packages/User/Snippets/rmarkdown-rchunk.sublime-snippet",
+		"/C/Users/leuve002/AppData/Roaming/Sublime Text/Packages/User/Build Systems/rmarkdown_bookdown_serve.sublime-build",
+		"/C/Users/leuve002/git/bookdown_test/chapters/02-datawrangling.Rmd",
+		"/C/Users/leuve002/git/bookdown_test/chapters/01-intro.Rmd",
+		"/C/Users/leuve002/git/bookdown_test/index.Rmd",
+		"/C/Users/leuve002/git/bookdown_test/chapters/99-references.Rmd",
+		"/C/Users/leuve002/git/bookdown_test/output/index.html",
+		"/C/Users/leuve002/AppData/Roaming/Sublime Text/Packages/User/Snippets/rmarkdown-image.sublime-snippet",
+		"/C/Users/leuve002/git/bookdown_test/chapters/07-references.Rmd",
+		"/C/Users/leuve002/git/bookdown_test/.gitlab-ci.yml",
+		"/C/Users/leuve002/git/bookdown_test/01-intro.Rmd",
+		"/C/Users/leuve002/git/bookdown_test/_bookdown.yml",
+		"/C/Users/leuve002/git/blogdown_test/content/post/2020-12-01-r-rmarkdown/index.Rmd",
+		"/C/Users/leuve002/AppData/Roaming/Sublime Text/Packages/User/Snippets/rmarkdown-flextable.sublime-snippet",
+		"/C/Users/leuve002/git/kb37_coffee/.gitignore",
+		"/C/Users/leuve002/git/kb37_coffee/methodology_introduction.rmd",
+		"/C/Users/leuve002/git/kb37_coffee/EUDR_and_deforestation.docx",
+		"/?WURNET.NL/Homes/leuve002/AppData/FolderRedirection/Desktop/test.r",
+		"/C/Users/leuve002/AppData/Roaming/Sublime Text/Packages/User/Build Systems/R-IDE2.sublime-build",
+		"/C/Users/leuve002/AppData/Roaming/Sublime Text/Packages/User/Citer.sublime-settings",
+		"/C/Users/leuve002/AppData/Roaming/Sublime Text/Packages/User/Build Systems/rmarkdown_render_all.sublime-build",
+		"/C/Users/leuve002/AppData/Roaming/Sublime Text/Packages/User/R-IDE/R-IDE.sublime-build",
+		"/C/Users/leuve002/git/kb37_coffee/lit_review.docx",
+		"/C/Users/leuve002/git/kb37_coffee/literature/references.bib",
+		"/C/Users/leuve002/git/kb37_coffee/operators_and_traders.csv",
+		"/C/Users/leuve002/git/kb37_coffee/table_test.rmd",
+		"/C/Users/leuve002/git/kb37_coffee/table_test.docx",
+		"/C/Users/leuve002/Zotero/storage/PJXLXQ3P/Zhunusova et al. - 2022 - Potential impacts of the proposed EU regulation on.pdf",
+		"/C/Users/leuve002/git/kb37_coffee/EUDR_and_deforestation.pdf",
+		"/C/Users/leuve002/git/kb37_coffee/thoughts_on_methods.docx",
+		"/C/Users/leuve002/git/kb37_coffee/.git/info/exclude",
+		"/C/Users/leuve002/git/kb37_coffee/thoughts_on_methods.rmd",
+		"/C/Users/leuve002/Downloads/test.rmd",
+		"/C/Users/leuve002/git/kb37_coffee/literature/KB37.bib",
+		"/C/Users/leuve002/git/kb37_coffee/risk_categories.rmd",
+		"/C/Users/leuve002/git/kb37_coffee/drivers_and_companies.rmd",
+		"/C/Users/leuve002/Downloads/gantttest.rmd",
+		"/C/Users/leuve002/AppData/Roaming/Sublime Text/Packages/User/Snippets/rmarkdown-latex-gant-chart.sublime-snippet",
+		"/C/Users/leuve002/git/kb37_coffee/thoughts_on_methods.log",
+		"/C/Program Files/MiKTeX/miktex/bin/x64/miktex-texworks.exe",
+		"/C/Users/leuve002/AppData/Roaming/Sublime Text/Packages/User/Snippets/rmarkdown-metadata.sublime-snippet",
+		"/C/Users/leuve002/AppData/Roaming/Sublime Text/Packages/User/Snippets/rmarkdown-citations.sublime-snippet",
+		"/C/Users/leuve002/AppData/Roaming/Sublime Text/Packages/User/rmarkdown-metadata.sublime-snippet",
+		"/C/Users/leuve002/Desktop/yada.r"
+	],
+	"find":
+	{
+		"height": 31.2
+	},
+	"find_in_files":
+	{
+		"height": 137.6,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"sd",
+			"sd =",
+			"function",
+			"  .",
+			"{\n",
+			" \n",
+			"()`.",
+			"group",
+			"library",
+			"regression_table"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.2
+	},
+	"input":
+	{
+		"height": 54.4
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.LSP Log Panel":
+	{
+		"height": 0.0
+	},
+	"output.diagnostics":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 162.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "biodiversity.sublime-project",
+	"replace":
+	{
+		"height": 59.2
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\leuve002\\git\\try_renv\\try_renv.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 481.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
