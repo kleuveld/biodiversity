@@ -95,6 +95,451 @@
 	},
 	"buffers":
 	[
+		{
+			"contents": "#\n# This file contains configuration flags to customize your site\n#\n\nremote_theme: THEME-NAME\n\n# Name of your site (displayed in the header)\nname: Biodiversity\n\n# Name of the author\nauthor: KOen Leuveld\n\n# Short bio or description (displayed in the header)\ndescription: Biodiversity\n\n# URL of your avatar or profile pic (you could use your GitHub profile pic)\n# avatar: /images/reverie.png\n\n#\n# Flags below are optional\n#\n\n# Includes an icon in the footer for each username you enter\nfooter-links:\n#  dribbble:\n  email: koen.leuveld@wur.nl\n#  facebook:\n#  flickr:\n#  github: kleuveld\n#  instagram:\n#  linkedin: \n#  pinterest:\n#  rss: rss\n#  twitter: amit_merchant\n#  stackoverflow: \n#  youtube: # channel/<your_long_string> or user/<user-name>\n# googleplus: # anything in your profile username that comes after plus.google.com/\n#  playconsole:\n#  mastodon: # <your-mastodon-instance>/@<your-user-name> eg. fosstodon.org/@username\n\n# Enter your Disqus shortname (not your username) to enable commenting on posts\n# You can find your shortname on the Settings page of your Disqus account\ndisqus: \n\n# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking\n# google_analytics: UA-43339302-11\n\n# For newer \"GA4\" analytics, use the following instead of the \"UA\" entry above\n#google_analytics_ga4: G-GABC1DEFG\n\n# Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)\n# Used for Sitemap.xml and your RSS feed\n# url: http://www.amitmerchant.com/reverie\n# enforce_ssl: https://www.amitmerchant.com/reverie\n\n# If you're hosting your site at a Project repository on GitHub pages\n# (http://yourusername.github.io/repository-name)\n# and NOT your User repository (http://yourusername.github.io)\n# then add in the baseurl here, like this: \"/repository-name\"\nbaseurl: \"/reverie\"\n\n#\n# !! You don't need to change any of the configuration flags below !!\n#\n\npermalink: /:title/\n\n# The release of Jekyll Now that you're using\nversion: v1.2.0\n\n# Jekyll 3 now only supports Kramdown for Markdown\nkramdown:\n  # Use GitHub flavored markdown, including triple backtick fenced code blocks\n  input: GFM\n  # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting\n  syntax_highlighter: rouge\n  syntax_highlighter_opts:\n    # Use existing pygments syntax highlighting css\n    css_class: 'highlight'\n\n# Set the Sass partials directory, as we're using @imports\nsass:\n  style: :expanded # You might prefer to minify using :compressed\n\n# Use the following plug-ins\nplugins:\n  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem\n  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem\n  - jekyll-seo-tag\n  - jekyll-paginate\n\ninclude: ['_pages']\n\npaginate: 6\npaginate_path: /page:num/\n\n# Exclude these files from your production _site\nexclude:\n  - Gemfile\n  - Gemfile.lock\n  - LICENSE\n  - README.md\n  - CNAME\n\n",
+			"file": "_config.yml",
+			"file_size": 2870,
+			"file_write_time": 133601693365696166,
+			"settings":
+			{
+				"buffer_size": 2896,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": "k.e"
+					},
+					"BAAAACwCAAAAAAAALQIAAAAAAAAAAAAALQIAAAAAAAAtAgAAAAAAABgAAABhbWl0bWVyY2hhbnQxOTkwL3JldmVyaWUtAgAAAAAAAC4CAAAAAAAAAAAAAC4CAAAAAAAALwIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAALAIAAAAAAABEAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					4,
+					2,
+					"left_delete",
+					null,
+					"AgAAAC4CAAAAAAAALgIAAAAAAAABAAAAZS0CAAAAAAAALQIAAAAAAAABAAAALg",
+					"AQAAAAAAAAABAAAALwIAAAAAAAAvAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					5,
+					1,
+					"insert",
+					{
+						"characters": "e"
+					},
+					"AQAAAC0CAAAAAAAALgIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAALQIAAAAAAAAtAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					1,
+					"left_delete",
+					null,
+					"AQAAAC0CAAAAAAAALQIAAAAAAAABAAAAZQ",
+					"AQAAAAAAAAABAAAALgIAAAAAAAAuAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					7,
+					1,
+					"insert",
+					{
+						"characters": "oen.leuveld"
+					},
+					"CwAAAC0CAAAAAAAALgIAAAAAAAAAAAAALgIAAAAAAAAvAgAAAAAAAAAAAAAvAgAAAAAAADACAAAAAAAAAAAAADACAAAAAAAAMQIAAAAAAAAAAAAAMQIAAAAAAAAyAgAAAAAAAAAAAAAyAgAAAAAAADMCAAAAAAAAAAAAADMCAAAAAAAANAIAAAAAAAAAAAAANAIAAAAAAAA1AgAAAAAAAAAAAAA1AgAAAAAAADYCAAAAAAAAAAAAADYCAAAAAAAANwIAAAAAAAAAAAAANwIAAAAAAAA4AgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAALQIAAAAAAAAtAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					4,
+					"left_delete",
+					null,
+					"BAAAADACAAAAAAAAMAIAAAAAAAABAAAALi8CAAAAAAAALwIAAAAAAAABAAAAbi4CAAAAAAAALgIAAAAAAAABAAAAZS0CAAAAAAAALQIAAAAAAAABAAAAbw",
+					"AQAAAAAAAAABAAAAMQIAAAAAAAAxAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					20,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAAIQEAAAAAAAAhQQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAhAQAAAAAAACEBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					21,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAIUEAAAAAAAAhgQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAhQQAAAAAAACFBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					28,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAAN0BAAAAAAAA3gEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA3QEAAAAAAADdAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					31,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAAOoBAAAAAAAA6wEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA6gEAAAAAAADqAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					32,
+					1,
+					"left_delete",
+					null,
+					"AQAAAOoBAAAAAAAA6gEAAAAAAAABAAAAIw",
+					"AQAAAAAAAAABAAAA6wEAAAAAAADrAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					35,
+					1,
+					"insert",
+					{
+						"characters": "koen.leuv"
+					},
+					"CgAAAPMBAAAAAAAA9AEAAAAAAAAAAAAA9AEAAAAAAAD0AQAAAAAAABkAAABhbWl0LmQubWVyY2hhbnRAZ21haWwuY29t9AEAAAAAAAD1AQAAAAAAAAAAAAD1AQAAAAAAAPYBAAAAAAAAAAAAAPYBAAAAAAAA9wEAAAAAAAAAAAAA9wEAAAAAAAD4AQAAAAAAAAAAAAD4AQAAAAAAAPkBAAAAAAAAAAAAAPkBAAAAAAAA+gEAAAAAAAAAAAAA+gEAAAAAAAD7AQAAAAAAAAAAAAD7AQAAAAAAAPwBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA8wEAAAAAAAAMAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					36,
+					2,
+					"left_delete",
+					null,
+					"AgAAAPsBAAAAAAAA+wEAAAAAAAABAAAAdvoBAAAAAAAA+gEAAAAAAAABAAAAdQ",
+					"AQAAAAAAAAABAAAA/AEAAAAAAAD8AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					37,
+					1,
+					"insert",
+					{
+						"characters": "uveld@wur.nl"
+					},
+					"DAAAAPoBAAAAAAAA+wEAAAAAAAAAAAAA+wEAAAAAAAD8AQAAAAAAAAAAAAD8AQAAAAAAAP0BAAAAAAAAAAAAAP0BAAAAAAAA/gEAAAAAAAAAAAAA/gEAAAAAAAD/AQAAAAAAAAAAAAD/AQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAQIAAAAAAAAAAAAAAQIAAAAAAAACAgAAAAAAAAAAAAACAgAAAAAAAAMCAAAAAAAAAAAAAAMCAAAAAAAABAIAAAAAAAAAAAAABAIAAAAAAAAFAgAAAAAAAAAAAAAFAgAAAAAAAAYCAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA+gEAAAAAAAD6AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					41,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAAAcCAAAAAAAACAIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABwIAAAAAAAAHAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					44,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAABQCAAAAAAAAFQIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFAIAAAAAAAAUAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					47,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAAB8CAAAAAAAAIAIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHwIAAAAAAAAfAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					50,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAADMCAAAAAAAANAIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAMwIAAAAAAAAzAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					55,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAAEECAAAAAAAAQgIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQQIAAAAAAABBAgAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					58,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAAE8CAAAAAAAAUAIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAATwIAAAAAAABPAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					61,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAAF0CAAAAAAAAXgIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAXQIAAAAAAABdAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					64,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAAGkCAAAAAAAAagIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAaQIAAAAAAABpAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					67,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAAIMCAAAAAAAAhAIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAgwIAAAAAAACDAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					71,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAAJYCAAAAAAAAlwIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAlgIAAAAAAACWAgAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					73,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAANQCAAAAAAAA1QIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA1AIAAAAAAADUAgAAAAAAAAAAAAAAACRA"
+				],
+				[
+					74,
+					2,
+					"left_delete",
+					null,
+					"AgAAANQCAAAAAAAA1AIAAAAAAAABAAAAI9MCAAAAAAAA0wIAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAA1QIAAAAAAADVAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					75,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAANMCAAAAAAAA1AIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA0wIAAAAAAADTAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					78,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAACcDAAAAAAAAKAMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJwMAAAAAAAAnAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					81,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAADcDAAAAAAAAOAMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANwMAAAAAAAA3AwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					86,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAAKYFAAAAAAAApwUAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAApgUAAAAAAACmBQAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					89,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAANAFAAAAAAAA0QUAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA0AUAAAAAAADQBQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					90,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAANEFAAAAAAAA0gUAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA0QUAAAAAAADRBQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					93,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAKcFAAAAAAAAqAUAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAApwUAAAAAAACnBQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					99,
+					1,
+					"insert",
+					{
+						"characters": "Biodivers"
+					},
+					"CgAAAHkAAAAAAAAAegAAAAAAAAAAAAAAegAAAAAAAAB6AAAAAAAAAAcAAABSZXZlcmllegAAAAAAAAB7AAAAAAAAAAAAAAB7AAAAAAAAAHwAAAAAAAAAAAAAAHwAAAAAAAAAfQAAAAAAAAAAAAAAfQAAAAAAAAB+AAAAAAAAAAAAAAB+AAAAAAAAAH8AAAAAAAAAAAAAAH8AAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAACBAAAAAAAAAAAAAACBAAAAAAAAAIIAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAeQAAAAAAAACAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					100,
+					1,
+					"insert",
+					{
+						"characters": "ity"
+					},
+					"AwAAAIIAAAAAAAAAgwAAAAAAAAAAAAAAgwAAAAAAAACEAAAAAAAAAAAAAACEAAAAAAAAAIUAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAggAAAAAAAACCAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					103,
+					1,
+					"insert",
+					{
+						"characters": "KOen"
+					},
+					"BQAAAKQAAAAAAAAApQAAAAAAAAAAAAAApQAAAAAAAAClAAAAAAAAAA0AAABBbWl0IE1lcmNoYW50pQAAAAAAAACmAAAAAAAAAAAAAACmAAAAAAAAAKcAAAAAAAAAAAAAAKcAAAAAAAAAqAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAApAAAAAAAAACxAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					104,
+					1,
+					"insert",
+					{
+						"characters": " Leuveld"
+					},
+					"CAAAAKgAAAAAAAAAqQAAAAAAAAAAAAAAqQAAAAAAAACqAAAAAAAAAAAAAACqAAAAAAAAAKsAAAAAAAAAAAAAAKsAAAAAAAAArAAAAAAAAAAAAAAArAAAAAAAAACtAAAAAAAAAAAAAACtAAAAAAAAAK4AAAAAAAAAAAAAAK4AAAAAAAAArwAAAAAAAAAAAAAArwAAAAAAAACwAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAqAAAAAAAAACoAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					107,
+					1,
+					"insert",
+					{
+						"characters": "Bi"
+					},
+					"AwAAAPQAAAAAAAAA9QAAAAAAAAAAAAAA9QAAAAAAAAD1AAAAAAAAABcAAABBbiBlbGVnYW50IEpla3lsbCB0aGVtZfUAAAAAAAAA9gAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA9AAAAAAAAAALAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					108,
+					1,
+					"insert_completion",
+					{
+						"completion": "Biodiversity",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "Biodiversity"
+					},
+					"AgAAAPQAAAAAAAAA9AAAAAAAAAACAAAAQmn0AAAAAAAAAAABAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA9gAAAAAAAAD2AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					111,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAAE4BAAAAAAAATwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAATgEAAAAAAABOAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					112,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAE8BAAAAAAAAUAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAATwEAAAAAAABPAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					115,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAEQAAAAAAAAARQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAARAAAAAAAAABEAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					116,
+					1,
+					"paste",
+					null,
+					"AQAAAEUAAAAAAAAAXQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAARQAAAAAAAABFAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					117,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAF0AAAAAAAAAXgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAXQAAAAAAAABdAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -458,6 +903,10 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/C/Users/leuve002/git/biodiversity"
+	],
 	"file_history":
 	[
 		"/C/Users/leuve002/git/r_cheatsheet/chapters/05_functions.Rmd",
@@ -583,6 +1032,38 @@
 		{
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "_config.yml",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2896,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								94,
+								94
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
 			]
 		}
 	],
