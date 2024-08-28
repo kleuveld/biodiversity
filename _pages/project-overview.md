@@ -6,7 +6,7 @@ permalink: /about-us/project-overview/
 
 # Project Overview
 
-##Key features
+## Key features
 
 - Duration: The project spans four years, from January 2024 to December 2027. The first results for two selected ecosystem services will be published by the end of 2024. 
 - Outputs: The project partners will receive monetized estimates for sectoral and country-level biodiversity effects. Costs and benefits of abatement measures. Both datasets will be made available via a database, dashboard, explanatory guidelines, and overview reports.
