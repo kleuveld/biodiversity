@@ -4,6 +4,6 @@ title: About us
 permalink: /about-us/
 ---
 
-- [Current and Past Consortium Members](/about-us/consortium/)
-- [Project Overview](/about-us/project-overview/)
+- [Current and Past Consortium Members]({{ site.baseurl }}/about-us/consortium/)
+- [Project Overview]({{ site.baseurl }}/about-us/project-overview/)
 - Work Plan 
